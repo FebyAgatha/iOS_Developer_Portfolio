@@ -21,6 +21,16 @@ BeeFam is an iOS application that aims to help new learners at the Apple Develop
 <img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/HomePage.png", width="200"/>
 </p>
 
+<br> 
+
+<p align="center">
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/Screenshot%202025-07-01%20at%2012.35.34.png", width="200"/>
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/Screenshot%202025-07-01%20at%2012.35.41.png", width="200"/>
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/Profile.png", width="200"/>
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/M.png", width="200"/>
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/QuestPage.png", width="200"/>
+</p>
+
 ---
 
 ### 🔍 Background
