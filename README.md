@@ -10,10 +10,9 @@ Feby Agatha - iOS Developer Portfolio
 - 🔒 Implementing efficient app architecture
 
 # My Projects
----
 
 # 1. [BeeFam](https://github.com/FebyAgatha/BeeFamApp) 🐝 🐝 🐝 
-** Be Familiar, Be Family**
+**Be Familiar, Be Family**
 
 BeeFam is an iOS application that aims to help new learners at the Apple Developer Academy to more easily get to know other new learners.
 
@@ -42,11 +41,17 @@ BeeFam is an iOS application that aims to help new learners at the Apple Develop
 ---
 
 ### 📚 What I Learned
+- Gained a solid understanding of Apple’s Human Interface Guidelines to design intuitive and consistent user experiences
+- Explored the Swift ecosystem, including SwiftUI for UI development and SwiftData for local data persistence
+- Applied the MVVM architecture pattern to write more structured, maintainable, and scalable code
+- Practiced using Git within Xcode to manage version control effectively
+- Improved team communication and collaboration through regular discussions and problem-solving as a group
 
 ---
 
 ### 🔧 Areas for Improvement
-
-
+- Apply better visual hierarchy in future designs to guide user focus more effectively
+- Refactor and clean up code logic to improve readability and maintainability
+- Enhance UI to be more responsive and adaptable, including support for Dynamic Type
 
 # 2. [BeeFam-Updated](https://github.com/FebyAgatha/BeeFam_EC)
