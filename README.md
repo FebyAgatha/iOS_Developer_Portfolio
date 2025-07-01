@@ -16,9 +16,18 @@ Feby Agatha - iOS Developer Portfolio
 
 BeeFam is an iOS application that aims to help new learners at the Apple Developer Academy to more easily get to know other new learners.
 
+<p align="center">
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/HomePage.jpg", width="200"/>
+<img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/HomePage.png", width="200"/>
+</p>
+
+---
+
 ### 🔍 Background
 - **Opportunity Statement** : When joining a new environment at Apple Developer Academy, User (Apple Developer Academy Learners) wants to get to know with other learners but many still struggle to remember names due to the large number of learners.
 - **Solution Statement** : Our Solutions uses Swift Frameworks to efficiently store and display ADA learners’ profiles, including their names, nickname, interests, hobby, and SIG so that new learners can easily recall information about their peers
+
+---
 
 ### 👩‍💻 Role & Responsibilities
 - Designed app UI with **SwiftUI**
