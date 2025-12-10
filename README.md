@@ -78,6 +78,10 @@ BeeFam is an iOS application that aims to help new learners at the Apple Develop
 
 PinjamAH! is an application for managing and calculating user borrowing opportunities, with the goal of increasing user literacy about the risks and opportunities of borrowing.
 
+<p align="center">
+  <img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/PINJEMAH.png", width="200"/>
+</p>
+
 ---
 
 ### 🔍 Background
@@ -112,6 +116,10 @@ PinjamAH! is an application for managing and calculating user borrowing opportun
 # 3. [Coco.co](https://github.com/ricotandrio/Coco)
 
 In the Coco.co project, the work focused on developing a solution to help a new snorkeling tourism startup overcome its user acquisition challenges by enhancing user engagement and creating a more compelling experience to support customer base growth.
+
+<p align="center">
+  <img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/COCOCO.png", width="200"/>
+</p>
 
 ---
 
@@ -152,9 +160,13 @@ In the Coco.co project, the work focused on developing a solution to help a new 
 - Continue improving understanding of business logic to ensure features are aligned with the intended business impact and optimized for healthier margins.
 
 # 4. [Cako](https://github.com/stresimpek/NagaX)
-**Berani Cakap dengan Cako**
+**Practice Alone? Practice with Cako!**
 
 Cako is a tool to help students practice presentations by reflecting on their delivery, packaged in a fun way.
+
+<p align="center">
+  <img src="https://github.com/FebyAgatha/iOS_Developer_Portfolio/blob/main/assets/CAKO.png", width="200"/>
+</p>
 
 ---
 
